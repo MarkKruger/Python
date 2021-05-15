@@ -1,0 +1,6 @@
+int nulik = 0
+short sum = 1
+byte buka = -1
+string word = "sdsd"
+char ci = '6'
+byte los = 31
